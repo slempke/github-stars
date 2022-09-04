@@ -596,7 +596,7 @@
 - [sixeyed/docker4.net](https://github.com/sixeyed/docker4.net) - Resources for the Udemy course: Docker for .NET Apps
 - [creativetimofficial/material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react) - React version of Material Dashboard by Creative Tim
 - [NickMaev/react-core-boilerplate](https://github.com/NickMaev/react-core-boilerplate) - Powerful ASP.NET Core 3 templates with React, true server-side rendering and Docker support
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [farhan1386/GenericRepositoryAndUnitOfWorkMVC5_Demo](https://github.com/farhan1386/GenericRepositoryAndUnitOfWorkMVC5_Demo) - The Repository mediates between the domain and data mapping layers, acting like an in-memory collection of domain objects.The Repository pattern and Unit of Work pattern are used together most of the 
