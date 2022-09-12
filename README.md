@@ -1746,7 +1746,7 @@
 - [palmin/open-in-place](https://github.com/palmin/open-in-place) - Example app that illustrates how to get open-in-place to work well with iOS document providers.
 - [hyperoslo/Presentation](https://github.com/hyperoslo/Presentation) - :bookmark_tabs: Presentation helps you to make tutorials, release notes and animated pages.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-- [app-developers/top](https://github.com/app-developers/top) - Top App Developers - August 2022
+- [app-developers/top](https://github.com/app-developers/top) - Top App Developers - September 2022
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
