@@ -1322,7 +1322,7 @@
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
-- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [rhydlewis/search-omnifocus](https://github.com/rhydlewis/search-omnifocus) - Alfred workflow that allows free text searching of OmniFocus tasks
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [hjwp/tdd-fridays](https://github.com/hjwp/tdd-fridays) - 
