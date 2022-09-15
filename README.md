@@ -153,7 +153,7 @@
 - [nissl-lab/npoi-examples](https://github.com/nissl-lab/npoi-examples) - To get started with NPOI,  here is all the official examples.
 - [Excel-DNA/ExcelDna](https://github.com/Excel-DNA/ExcelDna) - Excel-DNA - Free and easy .NET for Excel. This repository contains the core Excel-DNA library.
 - [EPPlusSoftware/EPPlus.Sample.NetCore](https://github.com/EPPlusSoftware/EPPlus.Sample.NetCore) - EPPlus samples for .NET Core. More details in Readme.md.
-- [MiniExcel/MiniExcel](https://github.com/MiniExcel/MiniExcel) - Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet
+- [mini-software/MiniExcel](https://github.com/mini-software/MiniExcel) - Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design. The goal is to do more with Blazor, utilizing CSS and keeping Javascript to a bare minimum.
 - [go2ismail/Asp.Net-Core-Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - Project example Asp.Net Core Mvc implementation of inventory order management system. warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more.
