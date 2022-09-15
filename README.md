@@ -1636,7 +1636,7 @@
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.
 - [richie5um/TextBar-Recipes](https://github.com/richie5um/TextBar-Recipes) - TextBar Recipes
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [aaronbates/dotfiles](https://github.com/aaronbates/dotfiles) - macOS dotfiles — migrate, backup, config, brew, dev, and a whole lot more.
 - [AlexanderWillner/things.sh](https://github.com/AlexanderWillner/things.sh) - Simple read-only comand-line interface to your Things 3 database
 - [bjango/Bjango-Templates](https://github.com/bjango/Bjango-Templates) - Design templates for Android, iOS, macOS, Apple TV (tvOS), Apple Watch (watchOS), Windows, Windows Phone and web favicons.
@@ -1650,7 +1650,7 @@
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [sjl/learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway) - 
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Bash, (Neo)vim, tmux, Git and other stuff
+- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Bash, Neovim, Git, tmux and other stuff
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [aysiu/Mac-Scripts-and-Profiles](https://github.com/aysiu/Mac-Scripts-and-Profiles) - Scripts that modify system preferences on Mac OS X
