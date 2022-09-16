@@ -1660,7 +1660,7 @@
 - [mzdr/macOS](https://github.com/mzdr/macOS) - 💻 When I do a clean macOS installation.
 - [SebastienElet/dotfiles](https://github.com/SebastienElet/dotfiles) - 🔧 My dotfiles
 - [japorized/dotfiles](https://github.com/japorized/dotfiles) - 🔰 Opinionated configurations for this relatively new and under-educated power user
-- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [jasoncodes/dotfiles](https://github.com/jasoncodes/dotfiles) - Configuration files for my development environment
