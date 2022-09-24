@@ -1301,7 +1301,7 @@
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [cmsj/macOSrecon](https://github.com/cmsj/macOSrecon) - Extract information from macOS about the hardware it supports
-- [SublimeLinter/SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - The code linting framework for Sublime Text 3
+- [SublimeLinter/SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - The code linting framework for Sublime Text
 - [titoBouzout/Dictionaries](https://github.com/titoBouzout/Dictionaries) - Hunspell UTF8 dictionaries. These work with Sublime Text. [Spell check]
 - [pytorch/elastic](https://github.com/pytorch/elastic) - PyTorch elastic training
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
