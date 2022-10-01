@@ -1490,7 +1490,7 @@
 - [kinnison/git-testament](https://github.com/kinnison/git-testament) - Rust library for creating a commit testament at compile time
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
@@ -1953,7 +1953,7 @@
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru, tag, etc finder.
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
-- [dbmrq/dotfiles](https://github.com/dbmrq/dotfiles) - :house_with_garden: There's no place like ~/
+- [dbmrq/Dotfiles](https://github.com/dbmrq/Dotfiles) - :house_with_garden: There's no place like ~/
 - [tpope/vim-markdown](https://github.com/tpope/vim-markdown) - Vim Markdown runtime files
 - [mitsuhiko/dotfiles](https://github.com/mitsuhiko/dotfiles) - My dotfiles (vim / bash etc.)
 - [daynin/dotfiles](https://github.com/daynin/dotfiles) - :metal: My collection of dotfiles for tmux, vim and zsh
