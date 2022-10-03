@@ -938,6 +938,7 @@
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [kika/fixedsys](https://github.com/kika/fixedsys) - Fixedsys Excelsior font with programming ligatures
+- [SebastienElet/dotfiles](https://github.com/SebastienElet/dotfiles) - 🔧 My dotfiles
 - [flow/flow-bin](https://github.com/flow/flow-bin) - Binary wrapper for Flow - A static type checker for JavaScript
 
 ## Markdown 
@@ -1659,7 +1660,6 @@
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
 - [rjames86/dotfiles](https://github.com/rjames86/dotfiles) - 
 - [mzdr/macOS](https://github.com/mzdr/macOS) - 💻 When I do a clean macOS installation.
-- [SebastienElet/dotfiles](https://github.com/SebastienElet/dotfiles) - 🔧 My dotfiles
 - [japorized/dotfiles](https://github.com/japorized/dotfiles) - 🔰 Opinionated configurations for this relatively new and under-educated power user
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
