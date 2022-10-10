@@ -25,7 +25,6 @@
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Haskell](#haskell)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -463,7 +462,6 @@
 - [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) - Auto Layout for Sketch
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
-- [wangkanai/wangkanai](https://github.com/wangkanai/wangkanai) - ASP.NET Core Detection with Responsive View for identifying details about client device, browser, engine, platform, & crawler. Responsive middleware for routing base upon request client device detecti
 - [jsakamoto/BlazorMinimumTemplates](https://github.com/jsakamoto/BlazorMinimumTemplates) - Templates for ASP.NET Core Blazor without any js and css libraries.
 - [SamProf/MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
@@ -517,10 +515,6 @@
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [bdesham/pinboard-notes-backup](https://github.com/bdesham/pinboard-notes-backup) - Back up the notes you’ve saved to Pinboard
-
-## JSON 
-
-- [timonus/OpenerManifest](https://github.com/timonus/OpenerManifest) - Set of rules powering Opener for iOS
 
 ## Java 
 
@@ -590,6 +584,7 @@
 - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 - [saineshwar/WebTimeSheetManagement](https://github.com/saineshwar/WebTimeSheetManagement) - Basic TimeSheet Management Application in ASP.NET MVC 5
 - [mar10/fancytree](https://github.com/mar10/fancytree) - JavaScript tree view / tree grid plugin with support for keyboard, inline editing, filtering, checkboxes, drag'n'drop, and lazy loading
+- [wangkanai/wangkanai](https://github.com/wangkanai/wangkanai) - ASP.NET Core Detection with Responsive View for identifying details about client device, browser, engine, platform, & crawler. Responsive middleware for routing base upon request client device detecti
 - [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator) - Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [Foliotek/Croppie](https://github.com/Foliotek/Croppie) - A Javascript Image Cropper
