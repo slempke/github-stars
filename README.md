@@ -1814,7 +1814,7 @@
 - [OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode) - Official C# support for Visual Studio Code (powered by OmniSharp)
 - [lbragile/TabMerger](https://github.com/lbragile/TabMerger) - TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
-- [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
+- [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [neuronetio/gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Gantt Gantt Gantt Timeline Schedule Calendar [ javascript gantt, js gantt, projects gantt, timeline, scheduler, gantt timeline, reservation timeline, react gantt, angular gantt, vue gantt, svelte gant
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
