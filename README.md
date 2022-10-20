@@ -1968,7 +1968,6 @@
 ## Vue 
 
 - [dwisulfahnur/blog-fastapi-vuejs](https://github.com/dwisulfahnur/blog-fastapi-vuejs) - Simple project that I write using fastapi, motor, and umongo for the backend. VueJS on the frontend
-- [web2033/vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vite, Vue3, Tailwind CSS (single-page app)
 - [lmiller1990/vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook) - A guide on testing Vue components and applications
 - [lmiller1990/complete-vuejs](https://github.com/lmiller1990/complete-vuejs) - A complete course on Vue.js 3. Options/Composition API, Vuex + Vue Router.
 - [euvl/vue-js-grid](https://github.com/euvl/vue-js-grid) - :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
