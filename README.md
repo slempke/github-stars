@@ -1495,7 +1495,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - A command-line Git information tool
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
@@ -1598,7 +1598,7 @@
 - [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
-- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Codespaces dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Now managed with https://github.com/twpayne/chezmoi
+- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Now managed with https://github.com/twpayne/chezmoi
 - [bjeanes/dotfiles](https://github.com/bjeanes/dotfiles) - 🏠
 - [afresh1/dotfiles](https://github.com/afresh1/dotfiles) - My dotfiles
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
