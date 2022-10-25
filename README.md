@@ -363,7 +363,7 @@
 
 ## Go 
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
+- [vercel/turbo](https://github.com/vercel/turbo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [westerlind/alfred-raindrop-search](https://github.com/westerlind/alfred-raindrop-search) - Search or add Raindrop.io bookmarks from Alfred
