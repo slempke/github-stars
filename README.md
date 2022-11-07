@@ -902,7 +902,7 @@
 ## Lua 
 
 - [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - This is my attempt at a basic stable starting point for a Neovim IDE.
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [elliotwaite/hammerspoon-config](https://github.com/elliotwaite/hammerspoon-config) - My Hammerspoon configuration files.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
@@ -1000,7 +1000,7 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [Homebrew/discussions](https://github.com/Homebrew/discussions) - 🗣 Public open-ended discussions. Replacement for our Discourse.
-- [ChristianChiarulli/Bitcoin-FullNode-Setup](https://github.com/ChristianChiarulli/Bitcoin-FullNode-Setup) - Tutorial for Setting up and Interacting with a Bitcoin FullNode
+- [ChristianChiarulli/Bitcoin-FullNode-Setup](https://github.com/ChristianChiarulli/Bitcoin-FullNode-Setup) - ₿ Tutorial for Setting up and Interacting with a Bitcoin FullNode
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [Murderlon/cyberpunk-iterm](https://github.com/Murderlon/cyberpunk-iterm) - 👾 Hacker colorscheme for iTerm
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
