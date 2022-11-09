@@ -1000,7 +1000,7 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [Homebrew/discussions](https://github.com/Homebrew/discussions) - 🗣 Public open-ended discussions. Replacement for our Discourse.
-- [ChristianChiarulli/Bitcoin-FullNode-Setup](https://github.com/ChristianChiarulli/Bitcoin-FullNode-Setup) - ₿ Tutorial for Setting up and Interacting with a Bitcoin FullNode
+- [raspinode/bitcoin-full-node](https://github.com/raspinode/bitcoin-full-node) - ₿ Tutorial for Setting up and Interacting with a Bitcoin FullNode
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [Murderlon/cyberpunk-iterm](https://github.com/Murderlon/cyberpunk-iterm) - 👾 Hacker colorscheme for iTerm
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
