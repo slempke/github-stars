@@ -1267,7 +1267,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.6 and above with performance auto-tuning. Optionally with Alpine Linux.
+- [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
 - [testdrivenio/fastapi-ml](https://github.com/testdrivenio/fastapi-ml) - deploying an ML model to Heroku with FastAPI
 - [visini/abstracting-fastapi-services](https://github.com/visini/abstracting-fastapi-services) - FastAPI application and service structure for a more maintainable codebase – See full article
 - [testdrivenio/fastapi-celery](https://github.com/testdrivenio/fastapi-celery) - Example of how to handle background processes with FastAPI, Celery, and Docker
