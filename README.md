@@ -383,7 +383,6 @@
 - [jason0x43/go-alfred](https://github.com/jason0x43/go-alfred) - Alfred workflow utility library in Go
 - [drgrib/alfred-bear](https://github.com/drgrib/alfred-bear) - Streamlined note searching and creation for Bear using Alfred
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [containers/toolbox](https://github.com/containers/toolbox) - Tool for containerized command line environments on Linux
 - [alexellis/go-execute](https://github.com/alexellis/go-execute) - Automate CLI commands with Go
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -1575,6 +1574,7 @@
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [MikeMcQuaid/dotfiles](https://github.com/MikeMcQuaid/dotfiles) - :computer: My dot files shared between machines.
 - [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
+- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
