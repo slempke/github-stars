@@ -1830,10 +1830,10 @@
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
+- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-- [fullcalendar/fullcalendar-workspace](https://github.com/fullcalendar/fullcalendar-workspace) - FullCalendar add-on for displaying events and resources
+- [fullcalendar/fullcalendar-workspace](https://github.com/fullcalendar/fullcalendar-workspace) - Premium full-sized drag & drop calendar & scheduler in JavaScript
 - [daneden/daneden.me](https://github.com/daneden/daneden.me) - 🏡 This is my website. There are many like it, but this one is mine.
 - [jeroenouw/cgx](https://github.com/jeroenouw/cgx) - 💻🔥CLI to generate the recommended documentation/files to improve contribution (Github, Gitlab, CodeCommit and Bitbucket)
 - [roam-unofficial/roam-toolkit](https://github.com/roam-unofficial/roam-toolkit) - Roam force multiplier
