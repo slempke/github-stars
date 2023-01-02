@@ -158,7 +158,7 @@
 - [EPPlusSoftware/EPPlus.Sample.NetCore](https://github.com/EPPlusSoftware/EPPlus.Sample.NetCore) - EPPlus samples for .NET Core. More details in Readme.md.
 - [mini-software/MiniExcel](https://github.com/mini-software/MiniExcel) - Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
-- [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design. The goal is to do more with Blazor, utilizing CSS and keeping Javascript to a bare minimum.
+- [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
 - [go2ismail/Asp.Net-Core-Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - Project example Asp.Net Core Mvc implementation of inventory order management system. warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more.
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
 - [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0 and 7.0  projects you can use. Readme contains explanations on all projects.
