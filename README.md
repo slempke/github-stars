@@ -738,7 +738,7 @@
 - [wesbos/Syntax](https://github.com/wesbos/Syntax) - A website for the Syntax Podcast
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [lucaorio/sketch-styles-generator](https://github.com/lucaorio/sketch-styles-generator) - Generate hundreds of Sketch Shared Styles in a matter of seconds.
-- [lucaorio/nero](https://github.com/lucaorio/nero) - Übersicht Widgets, Alfred Theme (macOS)
+- [lucaorio/nero](https://github.com/lucaorio/nero) - Übersicht widget to monitor the state of Yabai tiling window manager
 - [isometry/alfred-tty](https://github.com/isometry/alfred-tty) - Alfred Workflow to quickly switch between or close iTerm windows, tabs and panes based on title and tty
 - [SmartJSONEditor/PublicDocuments](https://github.com/SmartJSONEditor/PublicDocuments) - Public Documents
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
