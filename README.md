@@ -56,7 +56,6 @@
 - [Sass](#sass)
 - [Scheme](#scheme)
 - [Shell](#shell)
-- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -253,6 +252,7 @@
 - [sublimehq/mmap-example](https://github.com/sublimehq/mmap-example) - 
 - [octobanana/peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock, timer, and stopwatch for the terminal.
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
+- [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [cbucher/console](https://github.com/cbucher/console) - This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X (and other things, too)
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -1719,10 +1719,6 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-
-## Starlark 
-
-- [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 
 ## Svelte 
 
