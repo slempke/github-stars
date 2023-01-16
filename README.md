@@ -482,7 +482,6 @@
 - [DankNeon/iterm](https://github.com/DankNeon/iterm) - A danker, more neon theme for iTerm
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
 - [bep/my-modular-site](https://github.com/bep/my-modular-site) - Just a test site
-- [kjk/blog](https://github.com/kjk/blog) - Static site generator for my blog
 - [hjwp/www.obeythetestinggoat.com](https://github.com/hjwp/www.obeythetestinggoat.com) - www.obeythetestinggoat.com
 - [good/openweb](https://github.com/good/openweb) - 
 - [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
