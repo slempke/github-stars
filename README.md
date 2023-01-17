@@ -1995,7 +1995,6 @@
 - [lmiller1990/vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook) - A guide on testing Vue components and applications
 - [lmiller1990/complete-vuejs](https://github.com/lmiller1990/complete-vuejs) - A complete course on Vue.js 3. Options/Composition API, Vuex + Vue Router.
 - [euvl/vue-js-grid](https://github.com/euvl/vue-js-grid) - :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
-- [MasteringNuxt/NuxtBnB](https://github.com/MasteringNuxt/NuxtBnB) - Repository to the MasteringNuxt.com course where we build NuxtBnB.
 - [probil/vue-moveable](https://github.com/probil/vue-moveable) - ↔️ ↕️ 🔄  Vue.js wrapper for Moveable
 - [Zulko/eaglejs-demo](https://github.com/Zulko/eaglejs-demo) - Demo slideshows for Eagle.js
 - [davidgaroro/vuetify-todo-pwa](https://github.com/davidgaroro/vuetify-todo-pwa) - ✔️ A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
