@@ -673,7 +673,6 @@
 - [atulmy/fullstack-javascript-architecture](https://github.com/atulmy/fullstack-javascript-architecture) - ✍️  Opinionated project architecture for Full-Stack JavaScript Applications.
 - [felipepastorelima/vue-library](https://github.com/felipepastorelima/vue-library) - Build a Library web application with Vue, NodeJS, and SQL or MongoDB using ScaffoldHub
 - [clvrobj/Pinboard-Plus](https://github.com/clvrobj/Pinboard-Plus) - Pinboard.in Chrome extension, not official.
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [gothinkster/vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
 - [gothinkster/node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app) - 
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
@@ -1875,6 +1874,7 @@
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
