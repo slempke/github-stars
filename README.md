@@ -1366,7 +1366,7 @@
 - [int3h/SublimeFixMacPath](https://github.com/int3h/SublimeFixMacPath) - A Sublime Text 2/3 plugin to set the PATH correctly on OS X
 - [mooz/xkeysnail](https://github.com/mooz/xkeysnail) - Yet another keyboard remapping tool for X environment
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [farcaller/DashDoc](https://github.com/farcaller/DashDoc) - Dash integration for Sublime Text
 - [plotly/dash-table](https://github.com/plotly/dash-table) - OBSOLETE: now part of https://github.com/plotly/dash
 - [tupton/alfred-safari-history](https://github.com/tupton/alfred-safari-history) - Search your Safari history in Alfred
