@@ -294,7 +294,6 @@
 - [hacker-tools/hacker-tools.github.io](https://github.com/hacker-tools/hacker-tools.github.io) - Hacker Tools class website
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
-- [kumu/docs](https://github.com/kumu/docs) - 
 - [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) - Learn to code with Anki — flashcards and themes for all learning levels. Master your programming language of choice!
 - [guari/eclipse-ui-theme](https://github.com/guari/eclipse-ui-theme) - Dark UI Theme for Eclipse 4+
@@ -1070,6 +1069,7 @@
 - [Readify/madskillz](https://github.com/Readify/madskillz) - Readify Mad Skillz
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
 - [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
+- [kumu/docs](https://github.com/kumu/docs) - 
 - [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [hjwp/ddd-dynamic](https://github.com/hjwp/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [dracula/mindnode](https://github.com/dracula/mindnode) - 🧛🏻‍♂️ Dark theme for MindNode
