@@ -1657,7 +1657,7 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.
 - [richie5um/TextBar-Recipes](https://github.com/richie5um/TextBar-Recipes) - TextBar Recipes
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [aaronbates/dotfiles](https://github.com/aaronbates/dotfiles) - macOS dotfiles — migrate, backup, config, brew, dev, and a whole lot more.
 - [AlexanderWillner/things.sh](https://github.com/AlexanderWillner/things.sh) - Simple read-only comand-line interface to your Things 3 database
 - [bjango/Bjango-Templates](https://github.com/bjango/Bjango-Templates) - Design templates for Android, iOS, macOS, Apple TV (tvOS), Apple Watch (watchOS), Windows, Windows Phone and web favicons.
