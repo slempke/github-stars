@@ -1921,7 +1921,7 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [UseMacro/macro-chrome-extension](https://github.com/UseMacro/macro-chrome-extension) - [Deprecated] Keyboard shortcuts for the web
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
