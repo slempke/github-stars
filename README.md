@@ -622,7 +622,7 @@
 - [ajsaulsberry/BlipBinding](https://github.com/ajsaulsberry/BlipBinding) - ASP.NET MVC case study solution for PluralSight Guides. Demonstrates how to use default MVC model binding with hierarchical form data.
 - [commonmark/commonmark.js](https://github.com/commonmark/commonmark.js) - CommonMark parser and renderer in JavaScript
 - [RobertHajbok/FullCalendarMVC](https://github.com/RobertHajbok/FullCalendarMVC) - ASP.NET MVC HTML helper for https://github.com/fullcalendar/fullcalendar
-- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [mcintyre321/mvc.jquery.datatables](https://github.com/mcintyre321/mvc.jquery.datatables) - ASP MVC Helpers for connecting IQueryables with the amazing DataTables.net plugin
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
@@ -1207,7 +1207,7 @@
 
 ## PHP 
 
-- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [daylerees/test-driven-development-example](https://github.com/daylerees/test-driven-development-example) - An introduction to Test-Driven Development (TDD).
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
