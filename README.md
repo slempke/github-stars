@@ -298,6 +298,7 @@
 - [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) - Learn to code with Anki — flashcards and themes for all learning levels. Master your programming language of choice!
 - [guari/eclipse-ui-theme](https://github.com/guari/eclipse-ui-theme) - Dark UI Theme for Eclipse 4+
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
@@ -489,7 +490,6 @@
 - [michelvanheest/shortcuts-design-data](https://github.com/michelvanheest/shortcuts-design-data) - 
 - [aamnah/notes.aamnah.com](https://github.com/aamnah/notes.aamnah.com) - Aamnah's dev notes and learnings
 - [jdorn/sql-formatter](https://github.com/jdorn/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
-- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [jwasham/computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [inket/stts](https://github.com/inket/stts) - A simple macOS app for monitoring the status of cloud services
