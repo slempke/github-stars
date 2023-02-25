@@ -1696,7 +1696,7 @@
 - [jez/dotfiles](https://github.com/jez/dotfiles) - My personal collection of configuration files.
 - [rgomezcasas/dotfiles](https://github.com/rgomezcasas/dotfiles) - :penguin: Simple, fast, productivity-increaser dotfiles
 - [brandonb927/dotfiles](https://github.com/brandonb927/dotfiles) - My personal dotfiles
-- [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
+- [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux & BSD
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [mhinz/dotfiles](https://github.com/mhinz/dotfiles) - :smiling_imp: Vim, git, zsh, tmux, and other goodies.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
