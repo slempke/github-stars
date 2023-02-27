@@ -981,7 +981,7 @@
 - [megabitsenmzq/Today-Scripts](https://github.com/megabitsenmzq/Today-Scripts) - A widget for running scripts in the Today View in macOS's Notification Center
 - [waylybaye/XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macos
 - [anishathalye/lumen](https://github.com/anishathalye/lumen) - Magic auto brightness based on screen contents 💡
-- [shpakovski/MASShortcut](https://github.com/shpakovski/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store. More details:
+- [cocoabits/MASShortcut](https://github.com/cocoabits/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store. More details:
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [jimbojsb/launchrocket](https://github.com/jimbojsb/launchrocket) - A Mac PrefPane to manage all your Homebrew-installed services
 - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
