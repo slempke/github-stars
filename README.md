@@ -21,6 +21,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
+- [Gherkin](#gherkin)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -364,6 +365,10 @@
 - [yqrashawn/yqdotfiles](https://github.com/yqrashawn/yqdotfiles) - dotfiles
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [radian-software/radian](https://github.com/radian-software/radian) - 🍉 Dotfiles that marry elegance and practicality.
+
+## Gherkin 
+
+- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Go 
 
@@ -831,7 +836,7 @@
 - [timadevelop/bindings](https://github.com/timadevelop/bindings) - bindings.
 - [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly) - [全文]如何正确的学习Node.js
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [jaredreich/notie](https://github.com/jaredreich/notie) - 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -1624,7 +1629,6 @@
 - [afresh1/dotfiles](https://github.com/afresh1/dotfiles) - My dotfiles
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
-- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [saschagrunert/dotfiles](https://github.com/saschagrunert/dotfiles) - My hand crafted .dotfiles 🤚🛠❤️
 - [mmphego/new-computer](https://github.com/mmphego/new-computer) - Bash script to install everything I need, after a fresh [X]Ubuntu system install.
 - [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
