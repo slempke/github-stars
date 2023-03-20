@@ -1676,7 +1676,7 @@
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [aysiu/Mac-Scripts-and-Profiles](https://github.com/aysiu/Mac-Scripts-and-Profiles) - Scripts that modify system preferences on Mac OS X
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for your Terminal
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
 - [rjames86/dotfiles](https://github.com/rjames86/dotfiles) - 
 - [mzdr/macOS](https://github.com/mzdr/macOS) - 💻 When I do a clean macOS installation.
