@@ -1438,7 +1438,7 @@
 
 ## R 
 
-- [jimbrig/jimsghstars](https://github.com/jimbrig/jimsghstars) - A curated list of my GitHub stars! ⭐ https://jimbrig.github.io/jimsghstars/
+- [jimbrig/jimsghstars](https://github.com/jimbrig/jimsghstars) - A curated application for browsing my GitHub stars! ⭐
 - [r-lib/lintr](https://github.com/r-lib/lintr) - Static Code Analysis for R
 
 ## Roff 
