@@ -161,7 +161,7 @@
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
 - [go2ismail/Asp.Net-Core-Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - Project example Asp.Net Core Mvc implementation of inventory order management system. warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more.
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
-- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0 and 7.0  projects you can use. Readme contains explanations on all projects.
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0, 7.0 and 8.0 preview 2  projects you can use. Readme contains explanations on all projects.
 - [Tewr/BlazorFileReader](https://github.com/Tewr/BlazorFileReader) - Library for creating read-only file streams from file input elements or drop targets in Blazor.
 - [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for .NET 7
@@ -1816,7 +1816,7 @@
 - [ryanjamurphy/vantage-obsidian](https://github.com/ryanjamurphy/vantage-obsidian) - Vantage helps you build complex queries using Obsidian's native search tools.
 - [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [onehungrymind/fem-enterprise-patterns](https://github.com/onehungrymind/fem-enterprise-patterns) - 
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
