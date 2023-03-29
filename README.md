@@ -664,6 +664,7 @@
 - [netlify/netlify-dev-plugin](https://github.com/netlify/netlify-dev-plugin) - Local dev server with functions, rules engine and add-on support
 - [chriszarate/bookmarkleter](https://github.com/chriszarate/bookmarkleter) - You have JavaScript. You need a bookmarklet. This does that.
 - [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
+- [kumu/docs](https://github.com/kumu/docs) - 
 - [hjwp/tdd-thursdays](https://github.com/hjwp/tdd-thursdays) - basis scaffolding for a minimal js/node project with jasmine test runner
 - [hjwp/book-example](https://github.com/hjwp/book-example) - Example code for my book on TDD with Python
 - [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
@@ -1067,7 +1068,6 @@
 - [Readify/madskillz](https://github.com/Readify/madskillz) - Readify Mad Skillz
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
 - [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
-- [kumu/docs](https://github.com/kumu/docs) - 
 - [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [hjwp/ddd-dynamic](https://github.com/hjwp/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [dracula/mindnode](https://github.com/dracula/mindnode) - 🧛🏻‍♂️ Dark theme for MindNode
