@@ -558,6 +558,7 @@
 
 ## JavaScript 
 
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
