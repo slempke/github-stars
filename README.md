@@ -54,6 +54,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Sass](#sass)
+- [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Svelte](#svelte)
@@ -1568,6 +1569,10 @@
 ## Sass 
 
 - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
+
+## Scala 
+
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 
 ## Scheme 
 
