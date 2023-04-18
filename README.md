@@ -505,6 +505,7 @@
 - [uxchecklist/uxchecklist.github.io](https://github.com/uxchecklist/uxchecklist.github.io) - ux project checklist
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
 - [mludowise/Sketch-Plugin-Manager](https://github.com/mludowise/Sketch-Plugin-Manager) - Keeping your Sketch plugins up to date.
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [adnanrahic/a-crash-course-on-docker](https://github.com/adnanrahic/a-crash-course-on-docker) - 
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [djaiss/mapsicon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG.
@@ -685,7 +686,7 @@
 - [robb0wen/tornis](https://github.com/robb0wen/tornis) - Tornis helps you watch and respond to changes in your browser's viewport 🌲
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
+- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [darkguy2008/parallelshell](https://github.com/darkguy2008/parallelshell) - Run multiple shell commands in parallel
 - [aloglu/pinlet](https://github.com/aloglu/pinlet) - A Safari extension for Pinboard
 - [jfhbrook/node-ecstatic](https://github.com/jfhbrook/node-ecstatic) - A static file server middleware that works with core http, express or on the CLI!
@@ -1684,7 +1685,6 @@
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [aysiu/Mac-Scripts-and-Profiles](https://github.com/aysiu/Mac-Scripts-and-Profiles) - Scripts that modify system preferences on Mac OS X
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
 - [rjames86/dotfiles](https://github.com/rjames86/dotfiles) - 
 - [mzdr/macOS](https://github.com/mzdr/macOS) - 💻 When I do a clean macOS installation.
