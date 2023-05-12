@@ -1149,6 +1149,7 @@
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [Fiddle-N/material-incognito-dark-theme](https://github.com/Fiddle-N/material-incognito-dark-theme) - A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.
+- [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 🖨 Casks of Drivers
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
 - [davidhampgonsalves/interview-resources](https://github.com/davidhampgonsalves/interview-resources) - long list of resources for preparing for technical computer engineering interviews
@@ -1469,7 +1470,6 @@
 - [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [watir/watir](https://github.com/watir/watir) - Watir Powered By Selenium
 - [rtomayko/ronn](https://github.com/rtomayko/ronn) - the opposite of roff
-- [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 🖨 Casks of Drivers
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [ueno-llc/react-native-starter](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
