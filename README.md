@@ -610,7 +610,6 @@
 - [sixeyed/docker4.net](https://github.com/sixeyed/docker4.net) - Resources for the Udemy course: Docker for .NET Apps
 - [creativetimofficial/material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react) - React version of Material Dashboard by Creative Tim
 - [NickMaev/react-core-boilerplate](https://github.com/NickMaev/react-core-boilerplate) - Powerful ASP.NET Core 3 templates with React, true server-side rendering and Docker support
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [farhan1386/GenericRepositoryAndUnitOfWorkMVC5_Demo](https://github.com/farhan1386/GenericRepositoryAndUnitOfWorkMVC5_Demo) - The Repository mediates between the domain and data mapping layers, acting like an in-memory collection of domain objects.The Repository pattern and Unit of Work pattern are used together most of the 
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
@@ -1388,7 +1387,6 @@
 - [mutdmour/alfred-workflow-cheatsheet](https://github.com/mutdmour/alfred-workflow-cheatsheet) - Cheatsheet to get shortcuts for apps
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [alichtman/stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [nanohop/sketch-to-react-native](https://github.com/nanohop/sketch-to-react-native) - Convert Sketch files into React Native components
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [deanishe/alfred-relative-dates](https://github.com/deanishe/alfred-relative-dates) - Alfred workflow to generate relative dates in different locales
@@ -1849,6 +1847,7 @@
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode) - Official C# support for Visual Studio Code (powered by OmniSharp)
 - [lbragile/TabMerger](https://github.com/lbragile/TabMerger) - TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [neuronetio/gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Gantt Gantt Gantt Timeline Schedule Calendar [ javascript gantt, js gantt, projects gantt, timeline, scheduler, gantt timeline, reservation timeline, react gantt, angular gantt, vue gantt, svelte gant
