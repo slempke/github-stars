@@ -1114,7 +1114,7 @@
 - [jiegec/awesome-stars](https://github.com/jiegec/awesome-stars) - Awesome List of my own!
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [ligurio/sqa-wiki](https://github.com/ligurio/sqa-wiki) - My own notes (draft mostly) about software quality
+- [ligurio/sqa-wiki](https://github.com/ligurio/sqa-wiki) - My own notes (drafts mostly) about software quality
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [ivan-ha/awesome-rss-feeds](https://github.com/ivan-ha/awesome-rss-feeds) - A curated list of awesome RSS feeds I subscribed to
