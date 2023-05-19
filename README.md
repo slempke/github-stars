@@ -494,7 +494,6 @@
 - [jdorn/sql-formatter](https://github.com/jdorn/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
 - [jwasham/computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [inket/stts](https://github.com/inket/stts) - A simple macOS app for monitoring the status of cloud services
 - [leggett/simplify](https://github.com/leggett/simplify) - Issue tracker for Simplify Gmail, a browser extension to simplify Gmail's interface
 - [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool
 - [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
@@ -1754,6 +1753,7 @@
 - [bloomberg/xcdiff](https://github.com/bloomberg/xcdiff) - A tool which helps you diff xcodeproj files.
 - [vincode-io/FeedCurator](https://github.com/vincode-io/FeedCurator) - Maintain OPML documents and publish them.
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
+- [inket/stts](https://github.com/inket/stts) - A simple macOS app for monitoring the status of cloud services
 - [thompsonate/Shifty](https://github.com/thompsonate/Shifty) - ☀️ A macOS menu bar app that gives you more control over Night Shift.
 - [givip/Telegrammer](https://github.com/givip/Telegrammer) - Telegram Bot - written with Swift 5.2 / NIO, supports Linux, macOS
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
