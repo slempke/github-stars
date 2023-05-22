@@ -1218,7 +1218,7 @@
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [nystudio107/craft-imageoptimize](https://github.com/nystudio107/craft-imageoptimize) - Automatically create & optimize responsive image transforms, using either native Craft transforms or a service like Imgix, with zero template changes.
-- [MikoMagni/Trello-Workflow-for-Alfred](https://github.com/MikoMagni/Trello-Workflow-for-Alfred) - Trello Workflow - Create cards in Trello via Alfred App for Mac
+- [MikoMagni/Alfrello](https://github.com/MikoMagni/Alfrello) - Trello Workflow - Create cards in Trello via Alfred App for Mac
 - [kijin/pinboard-api](https://github.com/kijin/pinboard-api) - Pinboard API Client in PHP
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
