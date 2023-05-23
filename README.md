@@ -591,7 +591,7 @@
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling
 - [aidam38/roamsr](https://github.com/aidam38/roamsr) - Spaced Repetition in Roam Research
-- [BretFisher/udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
+- [BretFisher/udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Docker Mastery Udemy course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
 - [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
@@ -1218,7 +1218,7 @@
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [nystudio107/craft-imageoptimize](https://github.com/nystudio107/craft-imageoptimize) - Automatically create & optimize responsive image transforms, using either native Craft transforms or a service like Imgix, with zero template changes.
-- [MikoMagni/Alfrello](https://github.com/MikoMagni/Alfrello) - Trello Workflow - Create cards in Trello via Alfred App for Mac
+- [MikoMagni/Alfrello](https://github.com/MikoMagni/Alfrello) - Alfred Workflow for creating cards on a Trello board
 - [kijin/pinboard-api](https://github.com/kijin/pinboard-api) - Pinboard API Client in PHP
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
