@@ -1460,7 +1460,7 @@
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [danielbayley/homebrew-alfred](https://github.com/danielbayley/homebrew-alfred) - Manage @Alfredapp with @Homebrew.
 - [beeftornado/homebrew-rmtree](https://github.com/beeftornado/homebrew-rmtree) - Remove a formula and its unused dependencies
-- [caarlos0/macOS](https://github.com/caarlos0/macOS) - How I setup a new Mac
+- [caarlos0-graveyard/macOS](https://github.com/caarlos0-graveyard/macOS) - How I setup a new Mac
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [JXA-Cookbook/JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
 - [Homebrew/homebrew-command-not-found](https://github.com/Homebrew/homebrew-command-not-found) - 🔍 Ubuntu’s command-not-found equivalent for Homebrew on macOS
