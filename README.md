@@ -118,7 +118,7 @@
 - [mintty/wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [vapier/pcalc](https://github.com/vapier/pcalc) - command line util for doing hex/dec/oct/bin math quickly
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
