@@ -163,7 +163,7 @@
 - [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0, 7.0 and 8.0 preview 4 projects you can use. Readme contains explanations on all projects.
 - [Tewr/BlazorFileReader](https://github.com/Tewr/BlazorFileReader) - Library for creating read-only file streams from file input elements or drop targets in Blazor.
 - [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
-- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for .NET 7
+- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 - [EPPlusSoftware/EPPlus](https://github.com/EPPlusSoftware/EPPlus) - EPPlus-Excel spreadsheets for .NET
 - [iammukeshm/CleanArchitecture.WebApi](https://github.com/iammukeshm/CleanArchitecture.WebApi) - An implementation of Clean Architecture for ASP.NET Core 3.1 WebAPI. Built with loosely coupled architecture and clean-code practices in mind.
 - [aspnetcorehero/ToastNotification](https://github.com/aspnetcorehero/ToastNotification) - ToastNotification is a Minimal & Elegant Toast Notification Package for ASP.NET Core Web Applications that can be invoked via C#. Compatible with ASP.NET Core 3.1 and .NET 5.
@@ -447,7 +447,7 @@
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [iansinnott/alfred-maestro](https://github.com/iansinnott/alfred-maestro) - An Alfred workflow to execute Keyboard Maestro macros.
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
+- [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
