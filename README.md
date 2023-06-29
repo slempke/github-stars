@@ -1132,6 +1132,7 @@
 - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]
+- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
 - [learn-anything/blogs](https://github.com/learn-anything/blogs) - Awesome Blogs
 - [kentcdodds/ama](https://github.com/kentcdodds/ama) - Ask me anything!
 - [nikitavoloboev/ama](https://github.com/nikitavoloboev/ama) - Ask me anything
@@ -1664,7 +1665,6 @@
 - [gyuho/learn](https://github.com/gyuho/learn) - learn
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [RichardLitt/awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides) - :clipboard: A list of styleguides
-- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
 - [AhmedAbdulrahman/dotfiles](https://github.com/AhmedAbdulrahman/dotfiles) - ❤ ~/.🛠 macOS / Ubuntu  \[._.]/ files
 - [wilsonmar/mac-setup](https://github.com/wilsonmar/mac-setup) - :rocket: Automatically install, configure, and run the most popular programs of several stacks to work offline on a Mac and in clouds.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
