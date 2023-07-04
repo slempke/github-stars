@@ -440,7 +440,7 @@
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [deanishe/awgo](https://github.com/deanishe/awgo) - Go library for Alfred 3 + 4 workflows
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
-- [Rawnly/splash-cli](https://github.com/Rawnly/splash-cli) - A simple, CLI to download Unsplash wallpapers. Nothing fancy — it just works.
+- [rawnly/splash-cli](https://github.com/rawnly/splash-cli) - A simple, CLI to download Unsplash wallpapers. Nothing fancy — it just works.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [SlyMarbo/rss](https://github.com/SlyMarbo/rss) - A Go library for fetching, parsing, and updating RSS feeds.
 - [spamwax/alfred-pinboard](https://github.com/spamwax/alfred-pinboard) - Alfred Workflow for Pinboard (written in Go (golang))
