@@ -1697,7 +1697,7 @@
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [jasoncodes/dotfiles](https://github.com/jasoncodes/dotfiles) - Configuration files for my development environment
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
+- [caarlos0/dotfiles.zsh](https://github.com/caarlos0/dotfiles.zsh) - Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
 - [Mte90/My-Scripts](https://github.com/Mte90/My-Scripts) - My collection of my homemade scripts (or not)
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Trigger macOS notifications from Alfred, using the Workflow icon
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
