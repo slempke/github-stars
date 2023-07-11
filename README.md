@@ -433,7 +433,7 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [deanishe/alfred-safari-assistant](https://github.com/deanishe/alfred-safari-assistant) - Alfred 3+ workflow to search and use Safari bookmarks, history, reading list and tabs.
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
-- [gorilla/feeds](https://github.com/gorilla/feeds) - golang rss/atom generator library
+- [gorilla/feeds](https://github.com/gorilla/feeds) - Package gorilla/feeds is a golang rss/atom generator library
 - [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
 - [d6o/Gorganizer](https://github.com/d6o/Gorganizer) - Organize your folders into a beautiful classified folder structure with this perfect tool
 - [nikitavoloboev/alfred](https://github.com/nikitavoloboev/alfred) - Small Alfred workflows I use
