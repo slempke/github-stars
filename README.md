@@ -1636,7 +1636,7 @@
 - [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
-- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Now managed with https://github.com/twpayne/chezmoi
+- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces compatible dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Managed with Chezmoi
 - [bjeanes/dotfiles](https://github.com/bjeanes/dotfiles) - 🏠
 - [afresh1/dotfiles](https://github.com/afresh1/dotfiles) - My dotfiles
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
