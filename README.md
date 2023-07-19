@@ -1202,7 +1202,6 @@
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [posquit0/dotfiles](https://github.com/posquit0/dotfiles) - :zap: Awesome configurations for the development environments
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [mhartington/oceanic-next-iterm](https://github.com/mhartington/oceanic-next-iterm) - iterm port of https://github.com/voronianski/oceanic-next-theme/
@@ -1705,6 +1704,7 @@
 - [TomLingham/dotfiles](https://github.com/TomLingham/dotfiles) - Tom's Dotfiles
 - [shelldandy/dotfiles](https://github.com/shelldandy/dotfiles) - Current: Neovim, Tmux, FishShell. Old but still there: prezto, zsh.
 - [jez/dotfiles](https://github.com/jez/dotfiles) - My personal collection of configuration files.
+- [posquit0/dotfiles](https://github.com/posquit0/dotfiles) - :zap: Awesome configurations for the development environments
 - [rgomezcasas/dotfiles](https://github.com/rgomezcasas/dotfiles) - :penguin: Simple, fast, productivity-increaser dotfiles
 - [brandonb927/dotfiles](https://github.com/brandonb927/dotfiles) - My personal dotfiles
 - [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux & BSD
