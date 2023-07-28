@@ -1699,7 +1699,7 @@
 - [Mte90/My-Scripts](https://github.com/Mte90/My-Scripts) - My collection of my homemade scripts (or not)
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Trigger macOS notifications from Alfred, using the Workflow icon
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
-- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - 🤌🏻 Setup your MacOS for web development in few minutes.
 - [raphapr/dotfiles](https://github.com/raphapr/dotfiles) - sensible hacker defaults managed with homesick
 - [TomLingham/dotfiles](https://github.com/TomLingham/dotfiles) - Tom's Dotfiles
 - [shelldandy/dotfiles](https://github.com/shelldandy/dotfiles) - Current: Neovim, Tmux, FishShell. Old but still there: prezto, zsh.
