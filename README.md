@@ -1006,7 +1006,7 @@
 ## Objective-C++ 
 
 - [pqrs-org/osx-event-observer-examples](https://github.com/pqrs-org/osx-event-observer-examples) - 
-- [splintah/blur](https://github.com/splintah/blur) - A chunkwm plugin that blurs your wallpaper when you have open windows.
+- [splintersuidman/blur](https://github.com/splintersuidman/blur) - A chunkwm plugin that blurs your wallpaper when you have open windows.
 
 ## Others 
 
