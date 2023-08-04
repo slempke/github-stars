@@ -249,7 +249,6 @@
 - [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [sublimehq/mmap-example](https://github.com/sublimehq/mmap-example) - 
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [octobanana/peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock, timer, and stopwatch for the terminal.
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
@@ -1574,6 +1573,7 @@
 ## Scala 
 
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## Scheme 
 
