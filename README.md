@@ -1676,7 +1676,7 @@
 - [bresilla/dotfiles_old](https://github.com/bresilla/dotfiles_old) - 
 - [epavletic/dotfiles](https://github.com/epavletic/dotfiles) - Every carpenter needs their own toolbox.
 - [ralphholz/chunkwm-khd-config](https://github.com/ralphholz/chunkwm-khd-config) - 
-- [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
