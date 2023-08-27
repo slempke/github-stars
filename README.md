@@ -510,7 +510,6 @@
 - [djaiss/mapsicon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG.
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [deanishe/alfred-searchio](https://github.com/deanishe/alfred-searchio) - Alfred workflow to auto-suggest search results from multiple search engines and languages.
-- [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [html5rocks/www.html5rocks.com](https://github.com/html5rocks/www.html5rocks.com) - ....a top-notch resource for web developers
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [ttscoff/cheaters](https://github.com/ttscoff/cheaters) - Customizable cheat sheet system for OS X
@@ -846,6 +845,7 @@
 - [cesarferreira/gradlr](https://github.com/cesarferreira/gradlr) - :cyclone: Fastest auto complete for gradle tasks
 - [lim93/DiscogsToSpotify](https://github.com/lim93/DiscogsToSpotify) - A web application that creates a Spotify playlist based on a user's personal collection on Discogs.
 - [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
+- [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [15Dkatz/es6-in-depth-tutorial](https://github.com/15Dkatz/es6-in-depth-tutorial) - The Full JavaScript & ES6 Tutorial - (including ES7 & React)
 - [jkup/shortcut](https://github.com/jkup/shortcut) - :book: A keyboard shortcut library
 - [junosuarez/awesome-npx](https://github.com/junosuarez/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
@@ -1064,7 +1064,6 @@
 - [kparc/kcc](https://github.com/kparc/kcc) - k crash course
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
-- [learning-rust/site](https://github.com/learning-rust/site) - 👨‍🏫 Rust Programming Language Tutorials for Everyone!
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [Pythonista-Tools/Pythonista-Tools](https://github.com/Pythonista-Tools/Pythonista-Tools) - Gathering code and links to projects specially developed for Pythonista for iOS.
@@ -1561,6 +1560,7 @@
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [creativetimofficial/soft-ui-dashboard](https://github.com/creativetimofficial/soft-ui-dashboard) - Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard
 - [daveaglick/discoverdotnet](https://github.com/daveaglick/discoverdotnet) - A web site that helps you discover awesome .NET open source and community resources
+- [learning-rust/site](https://github.com/learning-rust/site) - 👨‍🏫 Rust Programming Language Tutorials for Everyone!
 - [nicolas-van/nicolas-van.github.io](https://github.com/nicolas-van/nicolas-van.github.io) - My personal blog
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [eduardoboucas/include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
