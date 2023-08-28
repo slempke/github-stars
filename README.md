@@ -733,7 +733,7 @@
 - [zehfernandes/pliim](https://github.com/zehfernandes/pliim) - One click and be ready to go up on stage and shine!
 - [televator-apps/vimari](https://github.com/televator-apps/vimari) - Safari port of vimium
 - [gggritso/Vimmy.safariextension](https://github.com/gggritso/Vimmy.safariextension) - A small set of Vim behaviours for Safari
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [lucaorio/sketch-styles-generator](https://github.com/lucaorio/sketch-styles-generator) - Generate hundreds of Sketch Shared Styles in a matter of seconds.
