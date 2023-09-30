@@ -1219,7 +1219,7 @@
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [daylerees/test-driven-development-example](https://github.com/daylerees/test-driven-development-example) - An introduction to Test-Driven Development (TDD).
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
-- [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
+- [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [nystudio107/craft-imageoptimize](https://github.com/nystudio107/craft-imageoptimize) - Automatically create & optimize responsive image transforms, using either native Craft transforms or a service like Imgix, with zero template changes.
 - [MikoMagni/Alfrello](https://github.com/MikoMagni/Alfrello) - Alfred Workflow for creating cards on a Trello board
 - [kijin/pinboard-api](https://github.com/kijin/pinboard-api) - Pinboard API Client in PHP
