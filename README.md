@@ -1179,7 +1179,7 @@
 - [Kapeli/feeds](https://github.com/Kapeli/feeds) - Collection of Dash docset feeds
 - [pandeiro/arch-on-air](https://github.com/pandeiro/arch-on-air) - Step by step of setting up Arch Linux on a Macbook Air 2013
 - [boyvanamstel/Whitefox-keyboard-macOS-configuration](https://github.com/boyvanamstel/Whitefox-keyboard-macOS-configuration) - ⌨ A macOS compatible configuration for Matt3o's Whitefox keyboard.
-- [heartly/awesome-writing-tools](https://github.com/heartly/awesome-writing-tools) - A curated list of awesome tools for improving written communication
+- [yowainwright/awesome-writing-tools](https://github.com/yowainwright/awesome-writing-tools) - A curated list of awesome tools for improving written communication
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
