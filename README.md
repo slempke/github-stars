@@ -901,6 +901,7 @@
 ## Kotlin 
 
 - [vsch/idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## Less 
 
@@ -1574,7 +1575,6 @@
 ## Scala 
 
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## Scheme 
 
