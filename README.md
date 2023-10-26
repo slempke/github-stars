@@ -742,7 +742,7 @@
 - [SmartJSONEditor/PublicDocuments](https://github.com/SmartJSONEditor/PublicDocuments) - Public Documents
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
 - [Netflix/vector](https://github.com/Netflix/vector) - Vector is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.
 - [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) - Social Share URLs
