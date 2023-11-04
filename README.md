@@ -299,7 +299,7 @@
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
-- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
+- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [amiechen/pretzel](https://github.com/amiechen/pretzel) - Pretzel is Mac desktop app that shows and find keyboard shortcuts based on your current app.
 - [pascallaliberte/theme-notes-first](https://github.com/pascallaliberte/theme-notes-first) - A Notes-First StyleSheet for Taskpaper
