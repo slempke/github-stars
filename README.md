@@ -314,7 +314,6 @@
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [nglgzz/dots](https://github.com/nglgzz/dots) - Dot files for Arch environment with i3 window manager.
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta
-- [JohnAlbin/normalize-scss](https://github.com/JohnAlbin/normalize-scss) - This is the Sass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
 - [minamarkham/sassy-starter](https://github.com/minamarkham/sassy-starter) - :tada: Sassy starter - HTML / SCSS (SMACSS)
 - [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
 - [engageinteractive/core](https://github.com/engageinteractive/core) - Our Front-end baseplate, from mobile to desktop
@@ -1563,6 +1562,7 @@
 - [learning-rust/site](https://github.com/learning-rust/site) - 👨‍🏫 Rust Programming Language Tutorials for Everyone!
 - [nicolas-van/nicolas-van.github.io](https://github.com/nicolas-van/nicolas-van.github.io) - My personal blog
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [JohnAlbin/normalize-scss](https://github.com/JohnAlbin/normalize-scss) - This is the Sass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
 - [eduardoboucas/include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 - [KittyGiraudel/SassyCast](https://github.com/KittyGiraudel/SassyCast) - [UNMAINTAINED] Type conversion functions for Sass.
 - [oddbird/true](https://github.com/oddbird/true) - Sass unit tests
