@@ -391,6 +391,7 @@
 - [drgrib/alfred-bear](https://github.com/drgrib/alfred-bear) - Streamlined note searching and creation for Bear using Alfred
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [alexellis/go-execute](https://github.com/alexellis/go-execute) - Automate CLI commands with Go
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [isacikgoz/gitin](https://github.com/isacikgoz/gitin) - commit/branch/workdir explorer for git
@@ -899,7 +900,6 @@
 ## Kotlin 
 
 - [vsch/idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## Less 
 
@@ -1061,7 +1061,7 @@
 - [kparc/kcc](https://github.com/kparc/kcc) - k crash course
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
-- [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - 👨‍🏫 Rust Programming Language Tutorials for Everyone!
+- [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - Rust Programming Language Tutorials for Everyone!
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [Pythonista-Tools/Pythonista-Tools](https://github.com/Pythonista-Tools/Pythonista-Tools) - Gathering code and links to projects specially developed for Pythonista for iOS.
