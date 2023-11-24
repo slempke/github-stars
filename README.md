@@ -1147,7 +1147,7 @@
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [Fiddle-N/material-incognito-dark-theme](https://github.com/Fiddle-N/material-incognito-dark-theme) - A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.
-- [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 🖨 Casks of Drivers
+- [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 💀 Casks of Drivers (deprecated)
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
 - [davidhampgonsalves/interview-resources](https://github.com/davidhampgonsalves/interview-resources) - long list of resources for preparing for technical computer engineering interviews
@@ -1453,7 +1453,7 @@
 
 ## Ruby 
 
-- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.4. PHP 8.3 and PHP 8.4 are built nightly.
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.4. PHP 8.4 is built nightly.
 - [ttscoff/howzit_old](https://github.com/ttscoff/howzit_old) - 
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [reitermarkus/dotfiles](https://github.com/reitermarkus/dotfiles) - :page_with_curl: My personal setup files. You might find some useful commands in there.
