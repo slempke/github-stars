@@ -930,6 +930,7 @@
 - [4ban/awesome-ban](https://github.com/4ban/awesome-ban) - Awesome WM 4.x theme configs
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [rtoshiro/hammerspoon-init](https://github.com/rtoshiro/hammerspoon-init) - Hammerspoon init.lua file.
+- [daynin/dotfiles](https://github.com/daynin/dotfiles) - :metal: My collection of dotfiles for neovim, tmux, etc
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
@@ -1432,7 +1433,6 @@
 - [chrisbro/alfred-bear](https://github.com/chrisbro/alfred-bear) - Alfred 3 workflow to create and search notes in Bear.
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [daynin/dotfiles](https://github.com/daynin/dotfiles) - :metal: My collection of dotfiles for neovim, tmux, etc
 - [phyllisstein/Workflows](https://github.com/phyllisstein/Workflows) - A collection of Alfred v2 workflows that are no longer maintained.
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
