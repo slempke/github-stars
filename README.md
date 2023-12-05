@@ -1050,7 +1050,7 @@
 - [denisidoro/cheats](https://github.com/denisidoro/cheats) - Community-sourced cheatsheets for navi
 - [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
+- [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [Monokai/monokai-pro-sublime-text](https://github.com/Monokai/monokai-pro-sublime-text) - Monokai Pro: beautiful functionality for professional developers
 - [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) - Apps/tools I use on iOS
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
