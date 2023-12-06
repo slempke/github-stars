@@ -1022,7 +1022,7 @@
 - [pqrs-org/repository-overview](https://github.com/pqrs-org/repository-overview) - Overview of pqrs.org repositories
 - [nnja/advanced-git](https://github.com/nnja/advanced-git) - Frontend Masters Advanced Git - by Nina Zakharenko
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
-- [bmadone/software-engineer-interview-preparation](https://github.com/bmadone/software-engineer-interview-preparation) - Software Engineer interview questions
+- [bmadone/software-engineering-subjects](https://github.com/bmadone/software-engineering-subjects) - Software Engineer Subjects
 - [jdsutton/Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - Study materials for SE/CS technical interviews
 - [sangram-chavan/productivity-extpack](https://github.com/sangram-chavan/productivity-extpack) - Development Environment Productivity Extensions Pack
 - [godcrampy/cheat-sheets](https://github.com/godcrampy/cheat-sheets) - 🌟 All the cheat-sheets mentioned on my blog in pdf format
@@ -1697,7 +1697,7 @@
 - [Mte90/My-Scripts](https://github.com/Mte90/My-Scripts) - My collection of my homemade scripts (or not)
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Trigger macOS notifications from Alfred, using the Workflow icon
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
-- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - 🤌🏻 Setup your MacOS for web development in few minutes.
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [raphapr/dotfiles](https://github.com/raphapr/dotfiles) - sensible hacker defaults managed with chezmoi
 - [TomLingham/dotfiles](https://github.com/TomLingham/dotfiles) - Tom's Dotfiles
 - [shelldandy/dotfiles](https://github.com/shelldandy/dotfiles) - Current: Neovim, Tmux, FishShell. Old but still there: prezto, zsh.
