@@ -853,7 +853,7 @@
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [btoews/OctoGAS](https://github.com/btoews/OctoGAS) - GitHub Email Notifications Google Apps Script for Gmail
 - [ptmt/react-native-macos](https://github.com/ptmt/react-native-macos) - [deprecated in favor of https://microsoft.github.io/react-native-windows/] React Native for macOS is an experimental fork for writing desktop apps using Cocoa
-- [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
+- [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. https://browsersync.io
 - [mahnunchik/gulp-responsive](https://github.com/mahnunchik/gulp-responsive) - gulp-responsive generates images at different sizes
 - [ducksoupdev/gulp-site-generator](https://github.com/ducksoupdev/gulp-site-generator) - A static site generator using Gulp
 - [stenver/interactive_frontend_development](https://github.com/stenver/interactive_frontend_development) - 
