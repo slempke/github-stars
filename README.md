@@ -359,7 +359,6 @@
 - [for-GET/know-your-http-well](https://github.com/for-GET/know-your-http-well) - HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification.
 - [joch/dotfiles](https://github.com/joch/dotfiles) - My dotfiles
 - [thiagokokada/dotfiles](https://github.com/thiagokokada/dotfiles) - ~/.dotfiles
-- [yqrashawn/yqdotfiles](https://github.com/yqrashawn/yqdotfiles) - dotfiles
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [radian-software/radian](https://github.com/radian-software/radian) - 🍉 Dotfiles that marry elegance and practicality.
 
@@ -800,6 +799,7 @@
 - [ELLIOTTCABLE/pin-cushion](https://github.com/ELLIOTTCABLE/pin-cushion) - Simple, maintained CLI interface to the Pinboard.in API.
 - [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
 - [hieutdo/chrome-devtools-furacode-theme](https://github.com/hieutdo/chrome-devtools-furacode-theme) - Make your Chrome DevTools Sources editor look better with FuraCode Nerd Font
+- [yqrashawn/yqdotfiles](https://github.com/yqrashawn/yqdotfiles) - dotfiles
 - [paldepind/flyd](https://github.com/paldepind/flyd) - The minimalistic but powerful, modular, functional reactive programming library in JavaScript.
 - [sindresorhus/refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features
 - [bertrandom/pinboard-keyboard-shortcut](https://github.com/bertrandom/pinboard-keyboard-shortcut) - Chrome extension for overriding Command-D to bookmark a page to Pinboard
