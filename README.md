@@ -1426,7 +1426,6 @@
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [deanishe/alfred-reddit](https://github.com/deanishe/alfred-reddit) - Browse Reddit from Alfred
 - [s0md3v/huepy](https://github.com/s0md3v/huepy) - Print awesomely in terminals.
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [joowani/dtags](https://github.com/joowani/dtags) - Command-line tool for tagging directories.
@@ -1551,6 +1550,7 @@
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [alexwlchan/backup-pinboard](https://github.com/alexwlchan/backup-pinboard) - Create a local backup of your Pinboard backups
 - [spamwax/alfred-pinboard-rs](https://github.com/spamwax/alfred-pinboard-rs) - Alfred Workflow for Pinboard (Rust)
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -1596,7 +1596,7 @@
 - [PurpleBooth/dotfiles](https://github.com/PurpleBooth/dotfiles) - My dotfiles. For reference and backup.
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [learnbyexample/learn_gnugrep_ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep) - Example based guide to mastering GNU grep and ripgrep
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [spencerwooo/dotfiles-archive](https://github.com/spencerwooo/dotfiles-archive) - Dotfiles for all :D
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
