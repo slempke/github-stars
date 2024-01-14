@@ -294,7 +294,6 @@
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
-- [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) - Learn to code with Anki — flashcards and themes for all learning levels. Master your programming language of choice!
 - [guari/eclipse-ui-theme](https://github.com/guari/eclipse-ui-theme) - Dark UI Theme for Eclipse 4+
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -489,6 +488,7 @@
 - [good/openweb](https://github.com/good/openweb) - 
 - [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
 - [darekkay/config-files](https://github.com/darekkay/config-files) - My collection of .dotfiles, settings and snippets.
+- [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) - Learn to code with Anki — flashcards and themes for all learning levels. Master your programming language of choice!
 - [michelvanheest/shortcuts-design-data](https://github.com/michelvanheest/shortcuts-design-data) - 
 - [aamnah/notes.aamnah.com](https://github.com/aamnah/notes.aamnah.com) - Aamnah's dev notes and learnings
 - [jdorn/sql-formatter](https://github.com/jdorn/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
