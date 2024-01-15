@@ -686,7 +686,7 @@
 - [darkguy2008/parallelshell](https://github.com/darkguy2008/parallelshell) - Run multiple shell commands in parallel
 - [aloglu/pinlet](https://github.com/aloglu/pinlet) - A Safari extension for Pinboard
 - [jfhbrook/node-ecstatic](https://github.com/jfhbrook/node-ecstatic) - A static file server middleware that works with core http, express or on the CLI!
-- [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick
+- [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
