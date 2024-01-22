@@ -377,7 +377,7 @@
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
 - [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
-- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go libraries + testing code
+- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go libraries and other code
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository.
@@ -1909,7 +1909,7 @@
 - [fabiospampinato/shortcuts](https://github.com/fabiospampinato/shortcuts) - Super performant and feature rich shortcuts management library.
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
-- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS libraries + testing code
+- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
 - [fabiospampinato/bump](https://github.com/fabiospampinato/bump) - Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.
 - [fabiospampinato/rssa](https://github.com/fabiospampinato/rssa) - RSS-Anything, get updates about anything you can reach with an url. Like RSS, but for anything.
 - [fabiospampinato/overstated](https://github.com/fabiospampinato/overstated) - React state management library that's delightful to use, without sacrificing performance or scalability.
