@@ -6,7 +6,6 @@
 ## Contents
 
 - [AppleScript](#applescript)
-- [AsciiDoc](#asciidoc)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
@@ -76,10 +75,6 @@
 - [unforswearing/applescript](https://github.com/unforswearing/applescript) - Applescript applets, snippets, resources, and links
 - [ChristoferK/AppleScriptive](https://github.com/ChristoferK/AppleScriptive) - Functional AppleScripts operating out of Keyboard Maestro, Alfred and Automator to optimise productivity.
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
-
-## AsciiDoc 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Astro 
 
@@ -464,6 +459,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged websit
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
@@ -1228,7 +1224,7 @@
 - [citelao/Spotify-for-Alfred](https://github.com/citelao/Spotify-for-Alfred) - aka Spotifious — a natural Spotify controller for Alfred
 - [vdesabou/alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
 - [psliwa/image-optimizer](https://github.com/psliwa/image-optimizer) - Image optimization / compression library. This library is able to optimize png, jpg and gif files in very easy and handy way. It uses optipng, pngquant, pngcrush, pngout, gifsicle, jpegoptim and jpegt
-- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
+- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 
 ## PLpgSQL 
 
