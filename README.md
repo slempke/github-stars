@@ -1043,6 +1043,7 @@
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [roam-unofficial/awesome-roam](https://github.com/roam-unofficial/awesome-roam) - A curated list of https://roamresearch.com/ resources
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [denisidoro/cheats](https://github.com/denisidoro/cheats) - Community-sourced cheatsheets for navi
 - [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
@@ -1868,7 +1869,6 @@
 - [roam-unofficial/roam-toolkit](https://github.com/roam-unofficial/roam-toolkit) - Roam force multiplier
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
