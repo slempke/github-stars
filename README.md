@@ -270,6 +270,7 @@
 
 ## CSS 
 
+- [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
 - [nickmilo/LYT-Mode](https://github.com/nickmilo/LYT-Mode) - LYT Mode is for "Linking Your Thinking". It invokes sensemaking and lateral thinking.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
