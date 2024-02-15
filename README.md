@@ -572,7 +572,6 @@
 - [chakra-ui/chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡️ Build scalable and accessible Vue.js applications with ease.
 - [prerender/prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [chrisleekr/nodejs-vuejs-mysql-boilerplate](https://github.com/chrisleekr/nodejs-vuejs-mysql-boilerplate) - Node.js (REST API) + Vue.js/Nuxt.js  (Frontend/Backend) + MySQL Boilerplate
 - [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
@@ -1247,7 +1246,7 @@
 
 - [Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2) - An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)
 - [dotnet/EntityFramework.Docs](https://github.com/dotnet/EntityFramework.Docs) - Documentation for Entity Framework Core and Entity Framework 6
-- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, releases notes, and more!
+- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 - [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
@@ -1836,6 +1835,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
