@@ -1062,7 +1062,7 @@
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - Rust Programming Language Tutorials for Everyone!
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [Pythonista-Tools/Pythonista-Tools](https://github.com/Pythonista-Tools/Pythonista-Tools) - Gathering code and links to projects specially developed for Pythonista for iOS.
 - [deaghean/omnifocus-perspective-icons](https://github.com/deaghean/omnifocus-perspective-icons) - Perspective icons designed specifically for OmniFocus 3 for Mac and iOS
 - [Timtech4u/awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
