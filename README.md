@@ -1471,7 +1471,7 @@
 - [ueno-llc/react-native-starter](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
+- [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications
 - [Kapeli/cheatset](https://github.com/Kapeli/cheatset) - Generate cheat sheets for Dash
 - [Chris911/iStats](https://github.com/Chris911/iStats) - Ruby gem for your mac stats
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
