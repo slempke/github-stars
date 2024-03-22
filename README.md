@@ -1136,7 +1136,7 @@
 - [sdras/night-owl-vscode-theme](https://github.com/sdras/night-owl-vscode-theme) - 🌌 NIGHT OWL: A VS Code dark theme for contrast for nighttime coding, 🦉 LIGHT OWL: a daytime light theme
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [nickytonline/alfred-workflows](https://github.com/nickytonline/alfred-workflows) - Hopefully useful workflows for Alfred
-- [27cm/awesome-soft](https://github.com/27cm/awesome-soft) - A collection of awesome computer software.
+- [anton-kotik/awesome-soft](https://github.com/anton-kotik/awesome-soft) - A collection of awesome computer software.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
