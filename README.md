@@ -371,7 +371,7 @@
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [westerlind/alfred-raindrop-search](https://github.com/westerlind/alfred-raindrop-search) - Search or add Raindrop.io bookmarks from Alfred
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-- [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
+- [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, and OpenCV Contrib.
 - [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
 - [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
 - [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go libraries and other code
