@@ -396,7 +396,7 @@
 - [pgaskin/BookBrowser](https://github.com/pgaskin/BookBrowser) - eBook server supporting ePub, MOBI and PDF books.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
-- [mjibson/sqlfmt](https://github.com/mjibson/sqlfmt) - SQL formatter with width-aware output
+- [maddyblue/sqlfmt](https://github.com/maddyblue/sqlfmt) - SQL formatter with width-aware output
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
