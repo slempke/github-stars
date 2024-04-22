@@ -1453,7 +1453,7 @@
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [reitermarkus/dotfiles](https://github.com/reitermarkus/dotfiles) - :page_with_curl: My personal setup files. You might find some useful commands in there.
 - [grzesiek-galezowski/tdd-ebook](https://github.com/grzesiek-galezowski/tdd-ebook) - Test-Driven Development - Extensive Tutorial. Open Source ebook
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [danielbayley/homebrew-alfred](https://github.com/danielbayley/homebrew-alfred) - Manage @Alfredapp with @Homebrew.
 - [beeftornado/homebrew-rmtree](https://github.com/beeftornado/homebrew-rmtree) - Remove a formula and its unused dependencies
