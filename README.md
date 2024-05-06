@@ -1074,7 +1074,7 @@
 - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [zero-equals-false/awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) - 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Secur
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
-- [AlexMartinFR/mojave-alfred-accented-themes](https://github.com/AlexMartinFR/mojave-alfred-accented-themes) - 🎩  Dark & Light Accented Alfred Themes tailored for macOS Mojave & Catalina users.
+- [alexmartinfr/mojave-alfred-accented-themes](https://github.com/alexmartinfr/mojave-alfred-accented-themes) - 🎩  Dark & Light Accented Alfred Themes tailored for macOS Mojave & Catalina users.
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [vuesion/intellij-theme](https://github.com/vuesion/intellij-theme) - Theme for Jetbrains IDE's based on the @vuesion color scheme
 - [michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide) - An in-depth Guide for getting started with the Windows Subsystem for Linux!
