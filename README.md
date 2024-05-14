@@ -721,7 +721,6 @@
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
-- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [zehfernandes/pliim](https://github.com/zehfernandes/pliim) - One click and be ready to go up on stage and shine!
 - [televator-apps/vimari](https://github.com/televator-apps/vimari) - Safari port of vimium
 - [gggritso/Vimmy.safariextension](https://github.com/gggritso/Vimmy.safariextension) - A small set of Vim behaviours for Safari
@@ -1915,6 +1914,7 @@
 - [fabiospampinato/vscode-bump](https://github.com/fabiospampinato/vscode-bump) - Bump your project's version and update the changelog. Opinionated but configurable.
 - [transitive-bullshit/random](https://github.com/transitive-bullshit/random) - The most random module on npm
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
