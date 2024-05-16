@@ -1194,6 +1194,7 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 💀 Casks of Ｆ🅾𝓝𝐓𝚂 (deprecated)
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [mhartington/oceanic-next-iterm](https://github.com/mhartington/oceanic-next-iterm) - iterm port of https://github.com/voronianski/oceanic-next-theme/
 - [geerlingguy/ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
@@ -1481,7 +1482,6 @@
 - [carlosgaldino/alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes. :shit:
 - [square/maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
 - [vitorgalvao/tiny-feed-scripts](https://github.com/vitorgalvao/tiny-feed-scripts) - Collection of small scripts to generate update feeds
-- [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
 - [vitorgalvao/homebrew-tiny-scripts](https://github.com/vitorgalvao/homebrew-tiny-scripts) - Homebrew tap for my tiny-scripts repos
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
@@ -1519,7 +1519,7 @@
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
