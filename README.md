@@ -1260,6 +1260,7 @@
 
 ## Python 
 
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [codebling/vs-code-default-keybindings](https://github.com/codebling/vs-code-default-keybindings) - Default keyboard shortcuts for VS Code on various OSes
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
