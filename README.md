@@ -273,7 +273,6 @@
 - [nickmilo/LYT-Mode](https://github.com/nickmilo/LYT-Mode) - LYT Mode is for "Linking Your Thinking". It invokes sensemaking and lateral thinking.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
-- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [vueschool/vue-masterclass](https://github.com/vueschool/vue-masterclass) - 🗂  Source code for The Vue 3 Masterclass
 - [jarodise/Dracula-for-Obsidian.md](https://github.com/jarodise/Dracula-for-Obsidian.md) - A dark theme for Obsidian.md
 - [nnja/practical_python](https://github.com/nnja/practical_python) - 
@@ -2010,6 +2009,7 @@
 
 ## Vue 
 
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [dwisulfahnur/blog-fastapi-vuejs](https://github.com/dwisulfahnur/blog-fastapi-vuejs) - Simple project that I write using fastapi, motor, and umongo for the backend. VueJS on the frontend
 - [lmiller1990/vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook) - A guide on testing Vue components and applications
 - [lmiller1990/complete-vuejs](https://github.com/lmiller1990/complete-vuejs) - A complete course on Vue.js 3. Options/Composition API, Vuex + Vue Router.
