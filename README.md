@@ -1190,7 +1190,6 @@
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 💀 Casks of Ｆ🅾𝓝𝐓𝚂 (deprecated)
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [mhartington/oceanic-next-iterm](https://github.com/mhartington/oceanic-next-iterm) - iterm port of https://github.com/voronianski/oceanic-next-theme/
@@ -1995,6 +1994,7 @@
 - [martin-svk/dot-files](https://github.com/martin-svk/dot-files) - :zap: Well documented, terminal centric web developer's dot files. Neovim, Zsh, Tmux, Git, etc.
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [stenver/vim-dotfiles](https://github.com/stenver/vim-dotfiles) - 
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 - [raulchen/dotfiles](https://github.com/raulchen/dotfiles) - 
