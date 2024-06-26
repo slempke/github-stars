@@ -799,7 +799,7 @@
 - [Samirla/xmlview](https://github.com/Samirla/xmlview) - Powerful XML viewer for Google Chrome and Safari
 - [flippidippi/sVim](https://github.com/flippidippi/sVim) - Safari extension with shortcuts similar to Vim
 - [quickwords/quickwords](https://github.com/quickwords/quickwords) - Quickwords is a productivity app, to get on with your work quicker.
-- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code extensions in the official PopClip Extensions directory.
+- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code for extensions in the official PopClip Extensions directory.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [rfletcher/safari-json-formatter](https://github.com/rfletcher/safari-json-formatter) - A Safari extension which makes valid JSON documents human-readable.
 - [ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
