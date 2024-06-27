@@ -1872,7 +1872,7 @@
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [microsoft/vscode-docker](https://github.com/microsoft/vscode-docker) - Docker Extension for Visual Studio Code
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [jfcere/ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to HTML with syntax highlight and more...
 - [sandiiarov/use-events](https://github.com/sandiiarov/use-events) - 🍭 Event hooks
@@ -1994,7 +1994,7 @@
 - [martin-svk/dot-files](https://github.com/martin-svk/dot-files) - :zap: Well documented, terminal centric web developer's dot files. Neovim, Zsh, Tmux, Git, etc.
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [stenver/vim-dotfiles](https://github.com/stenver/vim-dotfiles) - 
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 - [raulchen/dotfiles](https://github.com/raulchen/dotfiles) - 
