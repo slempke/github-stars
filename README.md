@@ -412,7 +412,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [majewsky/gofu](https://github.com/majewsky/gofu) - My personal busybox built in Go
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [m3ng9i/ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go
 - [kjk/notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so
 - [nikitavoloboev/alfred-awesome-lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Alfred workflow to search awesome lists
@@ -1788,7 +1788,6 @@
 
 - [TechBooster/ReVIEW-Template](https://github.com/TechBooster/ReVIEW-Template) - TechBoosterで利用しているRe:VIEWのテンプレート（B5/A5/電子書籍）を公開しています
 - [deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume) - A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student
-- [camillobruni/script](https://github.com/camillobruni/script) - my favorite scripts
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex
 
