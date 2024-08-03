@@ -17,7 +17,6 @@
 - [Crystal](#crystal)
 - [D](#d)
 - [Dart](#dart)
-- [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Gherkin](#gherkin)
@@ -335,10 +334,6 @@
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
-
-## Dockerfile 
-
-- [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 
 ## Elixir 
 
@@ -1015,6 +1010,7 @@
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [bmadone/software-engineering-subjects](https://github.com/bmadone/software-engineering-subjects) - Software Engineering Subjects
 - [jdsutton/Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - Study materials for SE/CS technical interviews
+- [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [sangram-chavan/productivity-extpack](https://github.com/sangram-chavan/productivity-extpack) - Development Environment Productivity Extensions Pack
 - [godcrampy/cheat-sheets](https://github.com/godcrampy/cheat-sheets) - 🌟 All the cheat-sheets mentioned on my blog in pdf format
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
