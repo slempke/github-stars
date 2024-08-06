@@ -637,7 +637,6 @@
 - [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files via comment blocks using source code, external data & custom transforms.
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [remy/transform](https://github.com/remy/transform) - transform globs of text into json
 - [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
 - [rbrahul/Awesome-JSON-Viewer](https://github.com/rbrahul/Awesome-JSON-Viewer) - :fire: A Chrome extension to visualise JSON response and  introduce awesome JSON prettifying experiences.
@@ -1877,6 +1876,7 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
