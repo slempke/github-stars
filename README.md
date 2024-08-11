@@ -1606,7 +1606,7 @@
 - [kutsan/zsh-system-clipboard](https://github.com/kutsan/zsh-system-clipboard) - System clipboard key bindings for Zsh Line Editor with vi mode. It is similar to what `set clipboard=unnamed` does for vim.
 - [GPGTools/MacGPG2](https://github.com/GPGTools/MacGPG2) - GnuPG 2 for macOS
 - [hjwp/dotfiles](https://github.com/hjwp/dotfiles) - vimrc, bashrc etc
-- [8483/notes](https://github.com/8483/notes) - Full-stack web development notes.
+- [8483/notes](https://github.com/8483/notes) - Full-stack web development notes
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
