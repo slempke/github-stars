@@ -655,6 +655,7 @@
 - [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [kumu/docs](https://github.com/kumu/docs) - 
 - [hjwp/tdd-thursdays](https://github.com/hjwp/tdd-thursdays) - basis scaffolding for a minimal js/node project with jasmine test runner
+- [hjwp/book-example](https://github.com/hjwp/book-example) - Example code for my book on TDD with Python
 - [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [atulmy/fullstack-javascript-architecture](https://github.com/atulmy/fullstack-javascript-architecture) - ✍️  Opinionated project architecture for Full-Stack JavaScript Applications.
 - [felipepastorelima/vue-library](https://github.com/felipepastorelima/vue-library) - Build a Library web application with Vue, NodeJS, and SQL or MongoDB using ScaffoldHub
@@ -1333,7 +1334,6 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [hjwp/tdd-fridays](https://github.com/hjwp/tdd-fridays) - 
 - [hjwp/Book-TDD-Web-Dev-Python](https://github.com/hjwp/Book-TDD-Web-Dev-Python) - Book - TDD web dev with Python
-- [hjwp/book-example](https://github.com/hjwp/book-example) - Example code for my book on TDD with Python
 - [hjwp/pytest-icdiff](https://github.com/hjwp/pytest-icdiff) - better error messages for assert equals in pytest
 - [asharov/git-hammer](https://github.com/asharov/git-hammer) - Collect and display statistics of git repositories
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
