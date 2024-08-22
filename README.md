@@ -357,6 +357,7 @@
 
 ## Go 
 
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [jurgen-kluft/go-qmk-keymap](https://github.com/jurgen-kluft/go-qmk-keymap) - This is a utility that can format your keymap array of layers as well as generating ascii-art diagrams of those layouts.
@@ -1481,6 +1482,7 @@
 
 ## Rust 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [wezm/git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
