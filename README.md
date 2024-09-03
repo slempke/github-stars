@@ -1869,7 +1869,7 @@
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [microsoft/vscode-docker](https://github.com/microsoft/vscode-docker) - Docker Extension for Visual Studio Code
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
