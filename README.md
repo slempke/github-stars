@@ -1907,7 +1907,7 @@
 - [fabiospampinato/rssa](https://github.com/fabiospampinato/rssa) - RSS-Anything, get updates about anything you can reach with an url. Like RSS, but for anything.
 - [fabiospampinato/overstated](https://github.com/fabiospampinato/overstated) - React state management library that's delightful to use, without sacrificing performance or scalability.
 - [fabiospampinato/vscode-bump](https://github.com/fabiospampinato/vscode-bump) - Bump your project's version and update the changelog. Opinionated but configurable.
-- [transitive-bullshit/random](https://github.com/transitive-bullshit/random) - The most random module on npm
+- [transitive-bullshit/random](https://github.com/transitive-bullshit/random) - Seedable random number generator supporting many common distributions.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
