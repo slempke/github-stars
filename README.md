@@ -996,7 +996,7 @@
 
 ## Others 
 
-- [nchudleigh/homerow](https://github.com/nchudleigh/homerow) - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.
+- [nchudleigh/homerow](https://github.com/nchudleigh/homerow) - Keyboard navigation for all of macOS. Click, scroll, and perform tasks with your keyboard.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [farmergreg/kinesis-advantage-2](https://github.com/farmergreg/kinesis-advantage-2) - Keyboard layouts and macros for the Kinesis Advantage 2 keyboard.
