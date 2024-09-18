@@ -954,7 +954,7 @@
 
 ## Nushell 
 
-- [LukeChannings/dotfiles](https://github.com/LukeChannings/dotfiles) - Luke's .config
+- [LukeChannings/dotfiles](https://github.com/LukeChannings/dotfiles) - Luke's dotfiles
 
 ## OCaml 
 
