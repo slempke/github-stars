@@ -157,7 +157,7 @@
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
 - [go2ismail/Asp.Net-Core-Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - ASP.NET Core Razor Pages implementation of inventory order management. Warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
-- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 9 RC1, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 9 RC2, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [Tewr/BlazorFileReader](https://github.com/Tewr/BlazorFileReader) - Library for creating read-only file streams from file input elements or drop targets in Blazor.
 - [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
@@ -366,7 +366,7 @@
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [westerlind/alfred-raindrop-search](https://github.com/westerlind/alfred-raindrop-search) - Search or add Raindrop.io bookmarks from Alfred
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-- [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, and OpenCV Contrib.
+- [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
 - [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
 - [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
 - [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go libraries and other code
