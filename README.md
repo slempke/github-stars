@@ -36,7 +36,6 @@
 - [Markdown](#markdown)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
-- [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -945,15 +944,12 @@
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [bjeanes/dotfiles](https://github.com/bjeanes/dotfiles) - 🏠
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
+- [LukeChannings/dotfiles](https://github.com/LukeChannings/dotfiles) - Luke's dotfiles
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 
 ## Nunjucks 
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
-
-## Nushell 
-
-- [LukeChannings/dotfiles](https://github.com/LukeChannings/dotfiles) - Luke's dotfiles
 
 ## OCaml 
 
