@@ -1421,7 +1421,7 @@
 - [phyllisstein/Workflows](https://github.com/phyllisstein/Workflows) - A collection of Alfred v2 workflows that are no longer maintained.
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
-- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [pocari/vim-denite-gists](https://github.com/pocari/vim-denite-gists) - denite.nvim plugin for show and browse Gist
 - [gtimelog/gtimelog](https://github.com/gtimelog/gtimelog) - A time tracking application
 - [trimailov/timeflow](https://github.com/trimailov/timeflow) - Simple cli time tracker inspired by gtimelog
