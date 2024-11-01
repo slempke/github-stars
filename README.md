@@ -1045,7 +1045,6 @@
 - [Monokai/monokai-pro-sublime-text](https://github.com/Monokai/monokai-pro-sublime-text) - Monokai Pro: beautiful functionality for professional developers
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [raindropio/developer-site](https://github.com/raindropio/developer-site) - Official documentation for Raindrop.io API
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [jhelvy/jKeyboard](https://github.com/jhelvy/jKeyboard) - Files for creating my custom keyboard, including my Karabiner-Elements settings and WASD Keyboard layout files
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
