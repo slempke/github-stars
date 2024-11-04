@@ -1042,7 +1042,7 @@
 - [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
-- [monokai-pro/sublime-text](https://github.com/monokai-pro/sublime-text) - Monokai Pro: beautiful functionality for professional developers
+- [monokai-pro/sublime-text](https://github.com/monokai-pro/sublime-text) - Issue tracking for Monokai Pro for Visual Studio Code
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [raindropio/developer-site](https://github.com/raindropio/developer-site) - Official documentation for Raindrop.io API
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
