@@ -1114,7 +1114,7 @@
 - [Anupya/dadjoke-cli](https://github.com/Anupya/dadjoke-cli) - A simple CLI to bring you the freshest dad jokes straight to your terminal :joy:
 - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]
+- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents u
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
 - [learn-anything/blogs](https://github.com/learn-anything/blogs) - Awesome Blogs
 - [kentcdodds/ama](https://github.com/kentcdodds/ama) - Ask me anything!
