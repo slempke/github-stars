@@ -492,6 +492,7 @@
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [uxchecklist/uxchecklist.github.io](https://github.com/uxchecklist/uxchecklist.github.io) - ux project checklist
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
 - [mludowise/Sketch-Plugin-Manager](https://github.com/mludowise/Sketch-Plugin-Manager) - Keeping your Sketch plugins up to date.
@@ -1152,7 +1153,6 @@
 - [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [learn-anything/reddit](https://github.com/learn-anything/reddit) - Awesome Reddit subreddits
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [learn-anything/websites](https://github.com/learn-anything/websites) - Awesome Websites
