@@ -369,7 +369,6 @@
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
 - [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
 - [digitalocean/godo](https://github.com/digitalocean/godo) - DigitalOcean Go API client
-- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go libraries and other code
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository.
@@ -410,6 +409,7 @@
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [m3ng9i/ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go
+- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [kjk/notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so
 - [nikitavoloboev/alfred-awesome-lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Alfred workflow to search awesome lists
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
@@ -1030,6 +1030,7 @@
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [NetCoreApps/LiveDemos](https://github.com/NetCoreApps/LiveDemos) - .NET Core Live Demos of ServiceStack Apps
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kind of data
 - [ChALkeR/notes](https://github.com/ChALkeR/notes) - Some public notes
 - [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
 - [adamsitnik/awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.
@@ -1904,7 +1905,7 @@
 - [fabiospampinato/shortcuts](https://github.com/fabiospampinato/shortcuts) - Super performant and feature rich shortcuts management library.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
-- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
+- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS tools, libraries and other code
 - [fabiospampinato/bump](https://github.com/fabiospampinato/bump) - Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.
 - [fabiospampinato/rssa](https://github.com/fabiospampinato/rssa) - RSS-Anything, get updates about anything you can reach with an url. Like RSS, but for anything.
 - [fabiospampinato/overstated](https://github.com/fabiospampinato/overstated) - React state management library that's delightful to use, without sacrificing performance or scalability.
@@ -2017,7 +2018,6 @@
 - [davidgaroro/vuetify-todo-pwa](https://github.com/davidgaroro/vuetify-todo-pwa) - ✔️ A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
-- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
 
