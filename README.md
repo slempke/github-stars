@@ -428,7 +428,7 @@
 - [gorilla/feeds](https://github.com/gorilla/feeds) - Package gorilla/feeds is a golang rss/atom generator library
 - [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
 - [d6o/Gorganizer](https://github.com/d6o/Gorganizer) - Organize your folders into a beautiful classified folder structure with this perfect tool
-- [nikitavoloboev/alfred](https://github.com/nikitavoloboev/alfred) - Alfred workflows I use
+- [nikitavoloboev/past-alfred](https://github.com/nikitavoloboev/past-alfred) - Alfred workflows I use
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [deanishe/awgo](https://github.com/deanishe/awgo) - Go library for Alfred 3 + 4 workflows
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
